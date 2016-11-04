@@ -150,7 +150,8 @@ class ViewController: UIViewController {
             
         } else {
             eyebrows.isHidden = true;
+        }
+        
     }
 
-}
 }
